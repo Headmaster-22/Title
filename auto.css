@@ -1,0 +1,29 @@
+div{
+    background-color: beige;
+    text-align: centre;
+    color: blueviolet;
+    width: 300px;
+}
+#Lagos{
+    background-color: brown;
+    text-align: right;
+    color: yellow;
+    width: 400px;
+    float: inline-end;
+}
+h1{
+    color: aliceblue;
+    text-align: right;
+}
+.Kwara{
+    background-color: aqua;
+    text-align: left;
+    color: azure;
+    width: 500px;
+}
+.onitsha{
+    background-color: aqua;
+    text-align: left;
+    color: azure;
+    width: 500px;
+}
